@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pholibert Lim</h1>
 <h3 align="center">I Am An Aspiring Web Developer</h3>
 <video autoplay>
+<source src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" type="video/webm">
 <img align='left' width='400' alt='Coding' src='https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif' />
 </video>
 

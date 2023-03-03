@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pholibert Lim</h1>
 <h3 align="center">I Am An Aspiring Web Developer</h3>
-<img align='right' alt='Coding' width='400' src='https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif'>
+<img align='right' alt='Coding' width='400' src='[https://media.tenor.com/images/d02f68f2b8785baa2e72115dec9bceed/tenor.gif](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)'>
 
 - 🔭 I’m currently working on [Movie Notepad](https://movienotepadclient.onrender.com/)
 

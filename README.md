@@ -4,11 +4,11 @@
 
 
 <p align='center'>
-- 🔭 I’m currently working on Movie Notepad (https://movienotepadclient.onrender.com/)
+- 🔭 My first full stack application: Movie Notepad (https://movienotepadclient.onrender.com/)
 </p>
 
 <p align='center'>
-- 🌱 I’m currently learning **Typescript, Next JS**
+- 🌱 I’m currently learning: **Typescript, Next JS**
 </p>
   
 <p align='center'>
@@ -16,7 +16,7 @@
 </p>
     
  <p align='center'>
-- 📫 How to reach me **pholibertlim@gmail.com**
+- 📫 How to reach me: **pholibertlim@gmail.com**
  </p>
 
 <h3 align="center">Connect with me:</h3>

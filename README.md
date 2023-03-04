@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-- 🌱 I’m currently learning: **Typescript, Next JS**
+- 🌱 I’m currently learning: **Typescript, React Native**
 </p>
   
 <p align='center'>

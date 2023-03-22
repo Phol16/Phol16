@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-- 🌱 I’m currently learning: **'refreshing' C#, NextJs, Typescript**
+- 🌱 I’m currently learning: ** C#, NextJs, Typescript **
 </p>
   
 <p align='center'>

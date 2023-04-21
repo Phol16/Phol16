@@ -23,12 +23,11 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
  ---
 
 <h3 align="left">:computer: Languages and Tools:</h3>
-<div align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="30px" style="padding:10px" align="left" />
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="30px" style="padding:100px" align="left" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS" width="30px" style="padding:10px" align="left"/> 
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS" width="30px"  align="left"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" title="JavaScript" width="30px" style="padding:10px" align="left"/> 
@@ -82,15 +81,13 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
     <img src="https://skillicons.dev/icons?i=visualstudio" alt="VS" title="VisualStudio" width="30px" style="padding:10px" align="left"/> 
   </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" width="30px" style="padding:10px" align="left"/> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" width="30px" style="padding-top:10px" align="left"/> 
   </a> 
-  
-</div>
 </br>
 </br>
 <h1></h1>
 
 
-<p aling='left'><img align="left" src="https://github-readme-stats.vercel.app/api?username=phol16&show_icons=true&locale=en&theme=vue-dark" alt="phol16" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phol16&show_icons=true&locale=en&theme=vue-dark" alt="phol16" />
 
-<p align='right'><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=phol16&theme=vue-dark" alt="phol16" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=phol16&theme=vue-dark" alt="phol16" />

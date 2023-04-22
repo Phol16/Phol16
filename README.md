@@ -25,7 +25,7 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 <h3 align="left">:computer: Languages and Tools:</h3>
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40px" style="padding-right:30px" align="center" />
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" title="HTML" width="40px" style="padding-right:30px" align="center" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS" width="40px"  align="center"/> 

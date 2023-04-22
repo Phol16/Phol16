@@ -9,11 +9,11 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 </p>
 
 <p align='left'>
-  🌱 I’m currently learning:  <b>NextJs, ReactNative</b>  
-</p>
-  
-<p align='left'>
   👨‍💻 All of my projects are available at <b>( https://phol.vercel.app/ )</b>
+</p>
+
+<p align='left'>
+  🌱 I’m currently learning:  <b>NextJs, ReactNative</b>  
 </p>
     
  <p align='left'>

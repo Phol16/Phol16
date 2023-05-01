@@ -13,7 +13,7 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 </p>
 
 <p align='left'>
-  🌱 I’m currently learning:  <b>NextJs, ReactNative</b>  
+  🌱 I’m currently learning:  <b>SQL, ReactNative</b>  
 </p>
     
  <p align='left'>
@@ -22,8 +22,8 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
  
  ---
 
-<h3 align="left">:computer: Languages and Tools:</h3>
-<div align="center">
+<h3 align="left">:computer: Programming Language:</h3>
+<div align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" title="HTML" width="40px" style="padding-right:30px" align="center" />
   </a>
@@ -54,6 +54,16 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node JS" width="40px" style="padding-right:30px" align="center"/> 
   </a> 
+   <a href="https://beta.nextjs.org/docs" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next JS" width="40px" style="padding-right:30px" align="center"/> 
+  </a>
+    </div>
+</br>
+  
+  
+  
+  <h3 align="left">🛠 Tools/Technology:</h3>
+  <div align="left">
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=materialui" alt="MUI" title="Material UI" width="40px" style="padding-right:30px" align="center"/>
   </a>

@@ -13,7 +13,11 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 </p>
 
 <p align='left'>
-  🌱 I’m currently learning:  <b>SQL, ReactNative</b>  
+  🌱 I’m currently learning:  
+  <b>
+    SQL <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="RDBM" title="RDBM" width="50px" style="padding-right:30px" align="center" /> , 
+    ReactNative <img src="https://skillicons.dev/icons?i=react" alt="react" title="React Native" width="22px" style="padding-right:30px" align="center" />
+  </b>  
 </p>
     
  <p align='left'>
@@ -39,8 +43,48 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
   <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cs" alt="csharp" title="C#" width="40px" style="padding-right:30px" align="center"/> 
   </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+</div>
+</br>
+
+
+
+  <h3 align="left">🛠 Tools/Technology:</h3>
+  <div align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="VS" title="VisualStudio" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" title="Git" width="40px" style="padding-right:30px" align="center"/> 
+  </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=github" alt="github" title="Github" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=materialui" alt="MUI" title="Material UI" width="40px" style="padding-right:30px" align="center"/>
+  </a>
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/256/chakra-ui.png" alt="ChakraUI" title="ChakraUI" width="40px" style="padding-right:30px" align="center"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="TailwindCSS" width="40px" style="padding-right:30px" align="center"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" title="Postman" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="40px" style="padding-right:30px" align="center"/> 
+  </a> 
+  <a href="https://www.vercel.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" title="Vercel" width="40px" style="padding-right:30px" align="center"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="40px" style="padding-right:30px" align="center"/> 
@@ -57,43 +101,6 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
    <a href="https://beta.nextjs.org/docs" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next JS" width="40px" style="padding-right:30px" align="center"/> 
   </a>
-    </div>
-</br>
-  
-  
-  
-  <h3 align="left">🛠 Tools/Technology:</h3>
-  <div align="left">
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=materialui" alt="MUI" title="Material UI" width="40px" style="padding-right:30px" align="center"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="TailwindCSS" width="40px" style="padding-right:30px" align="center"/>
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/256/chakra-ui.png" alt="ChakraUI" title="ChakraUI" width="40px" style="padding-right:30px" align="center"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" title="Postman" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=github" alt="github" title="Github" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="Gitlab" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" title="VScode" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="VS" title="VisualStudio" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
   </div>
 </br>
 <h1></h1>

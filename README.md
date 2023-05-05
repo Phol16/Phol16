@@ -106,6 +106,6 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 <h1></h1>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=phol16&theme=vue-dark&count_private=true&show_icons=true" alt="phol16" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=phol16&theme=graywhite&count_private=true&show_icons=true" alt="phol16" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=phol16&theme=vue-dark" alt="phol16" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=phol16&theme=graywhite" alt="phol16" />

@@ -101,6 +101,10 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
    <a href="https://beta.nextjs.org/docs" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next JS" width="40px" style="padding-right:30px" align="center"/> 
   </a>
+  </a> 
+   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" title="Prisma" width="40px" style="padding-right:30px" align="center"/> 
+  </a>
   </div>
 </br>
 <h1></h1>

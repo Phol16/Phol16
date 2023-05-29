@@ -15,8 +15,10 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 <p align='left'>
   🌱 I’m currently learning:  
   <b>
-    SQL <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="RDBM" title="RDBM" width="50px" style="padding-right:30px" align="center" /> , 
-    ReactNative <img src="https://skillicons.dev/icons?i=react" alt="react" title="React Native" width="22px" style="padding-right:30px" align="center" />
+    SQL <img src="https://skillicons.dev/icons?i=postgres" alt="RDBM" title="RDBM" width="22px" style="padding-right:30px" align="center" /> , 
+    ReactNative <img src="https://skillicons.dev/icons?i=react" alt="react" title="React Native" width="22px" style="padding-right:30px" align="center" />,
+    Docker <img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" width="22px" style="padding-right:30px" align="center" />,
+    Jest <img src="https://skillicons.dev/icons?i=jest" alt="jest" title="Jest" width="22px" style="padding-right:30px" align="center" />
   </b>  
 </p>
     
@@ -67,12 +69,6 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma" width="40px" style="padding-right:30px" align="center"/> 
-  </a> 
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=materialui" alt="MUI" title="Material UI" width="40px" style="padding-right:30px" align="center"/>
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/256/chakra-ui.png" alt="ChakraUI" title="ChakraUI" width="40px" style="padding-right:30px" align="center"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="TailwindCSS" width="40px" style="padding-right:30px" align="center"/>
@@ -104,6 +100,9 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
   </a> 
    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" title="Prisma" width="40px" style="padding-right:30px" align="center"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="40px" style="padding-right:30px" align="center"/> 
   </a>
   </div>
 </br>

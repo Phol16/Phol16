@@ -11,16 +11,6 @@ I'm knowledgeable in using <b><i>MERN</i></b> stack technology for web developme
 <p align='left'>
   👨‍💻 All of my projects are available at <b>( https://phol.vercel.app/ )</b>
 </p>
-
-<p align='left'>
-  🌱 I’m currently learning:  
-  <b>
-    SQL <img src="https://skillicons.dev/icons?i=postgres" alt="RDBM" title="RDBM" width="22px" style="padding-right:30px" align="center" /> , 
-    ReactNative <img src="https://skillicons.dev/icons?i=react" alt="react" title="React Native" width="22px" style="padding-right:30px" align="center" />,
-    Docker <img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" width="22px" style="padding-right:30px" align="center" />,
-    Jest <img src="https://skillicons.dev/icons?i=jest" alt="jest" title="Jest" width="22px" style="padding-right:30px" align="center" />
-  </b>  
-</p>
     
  <p align='left'>
   📫 How to reach me: <b>pholibertlim@gmail.com</b>
